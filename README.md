@@ -26,7 +26,7 @@ The multi-category multi-objective path optimization problems aims to determine 
 
 #### Example
 
-![image](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-multi-category-multi-objective-path-optimization-problem/blob/main/MCMOPOP.PNG)
+![image](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-multi-category-multi-objective-path-optimization-problem/blob/main/MCMOPOP.png)
 
 The red number associated with each arc is the additive weight, and the green number is the multiplicative weight.
 
