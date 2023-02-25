@@ -1,7 +1,5 @@
 ### The Ripple-Spreading Algorithm for the Multi-Category Multi-Objective Path Optimization Problem
 
-##### Reference: Ma Y M, Hu X B, Zhou H. Determining all Pareto-optimal paths for multi-category multi-objective path optimization problems[C]//2022 18th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), accepted.
-
 The multi-category multi-objective path optimization problems aims to determine all Pareto-optimal paths on a graph with multiple additive and multiplicative weights.
 
 | Variables     | Meaning                                                      |
